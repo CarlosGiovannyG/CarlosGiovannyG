@@ -24,7 +24,7 @@ output:
 # CAR L O S G I O VA N N Y G UAL T E R O L O N D O Ñ O
 
 ## F U L L S T A C K DE V E L O P M ENT
-  <img src="Images/github.gif" alt="html5" width="160" height="160" border="5px"/> 
+  <img src="Images/github.gif" alt="html5" width="200" height="200" border="5px" align="right"/> 
 
 ### El mundo de la informática sin dudas es mi lugar.
 
