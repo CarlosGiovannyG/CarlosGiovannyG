@@ -44,16 +44,35 @@ output:
 
 
 
+<div>
 <p width='380%' height="100%" alaign="center" bacgraund="red"> 
-  <img src="Images/React.jpg" alt="html5" width="60" height="60"/> 
-    <img src="Images/JavaScript.png" alt="css3"width="60" height="60"/> 
-  <img src="Images/Redux.png" alt="bootstrap" width="60" height="60"/> 
-   <img src="Images/GraphQL.png" alt="html5" width="60" height="60"/>
-    <img src="Images/ApolloSever.jpg" alt="css3" width="100" height="60"/>
-    <img src="Images/Python.png" alt="bootstrap"  width="60" height="60"/>
-  <img src="Images/Varias.png" alt="css3" width="60" height="60"/> 
-    <img src="Images/Varias1.jpg" alt="bootstrap" width="60" height="60"/> 
+  <img src="Images/React.jpg" alt="React" width="60" height="60"/> 
+    <img src="Images/JavaScript.png" alt="JavaScript"width="60" height="60"/> 
+  <img src="Images/Redux.png" alt="Redux" width="60" height="60"/> 
+   <img src="Images/GraphQL.png" alt="GraphQL" width="60" height="60"/>
+    <img src="Images/ApolloSever.jpg" alt="ApolloServer" width="100" height="60"/>
+    <img src="Images/Python.png" alt="Python"  width="60" height="60"/>
+  <img src="Images/Varias.png" alt="Varias" width="60" height="60"/> 
+    <img src="Images/Varias1.jpg" alt="Varias1" width="60" height="60"/> 
  </p>
+</div>
+
+
+# Contacto
+
+<table style="width:50%" >
+  <tr> 
+    <td>
+ <a href="https://www.linkedin.com/in/carlos-gualtero" target="_blank"> <img src="Images/linkedin.png" alt="Linhedin"             width="150" height="70"/> </a>  
+	</td>
+  <td>
+	<a href="cggualtero@hotmail.com" target="_blank"> <img src="Images/email.jpg" alt="Correo"             width="150" height="80"/> </a>  
+	</td>	   
+  </tr>  
+</table>
+
+
+
 
 
 
