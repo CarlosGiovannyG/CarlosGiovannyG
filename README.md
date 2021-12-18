@@ -60,13 +60,21 @@ output:
 
 # Contacto
 
-<table style="width:50%" >
+<table style="width:100%" >
   <tr> 
     <td>
- <a href="https://www.linkedin.com/in/carlos-gualtero/" target="_blank"> <img src="Images/linkedin.png" alt="Linhedin"             width="150" height="70"/> </a>  
+ <a href="https://www.linkedin.com/in/carlos-gualtero/" target="_blank"> <img src="Images/linkedin.gif" alt="Linhedin"             width="150" height="70"/> </a>  
 	</td>
   <td>
-	<a href="mailto:cggualtero@hotmail.com" target="_blank"> <img src="Images/email.jpg" alt="Correo"             width="150" height="80"/> </a>  
+	<a href="mailto:cggualtero@hotmail.com" target="_blank"> <img src="Images/email.gif" alt="Correo"             width="150" height=70"/> </a>  
+	</td>	   
+  <td>
+	<a href="mailto:cgig82@gmail.com" target="_blank"> <img src="Images/gmail.gif" alt="Correo"             width="150" height="70"/> </a>  
+	</td>	   
+  <td>
+	<p  width="150" height="70" background-color="#ff0000" >
+  <a  href="tel:3043912387" target="_blank"> Telefono: +573043912387 </a>
+  </p>  
 	</td>	   
   </tr>  
 </table>
