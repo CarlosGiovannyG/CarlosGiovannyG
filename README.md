@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 ### F U L L S T A C K DE V E L O P M ENT
 > **Formado como Full Stack Developer cuento con experiencia en NodeJS, React, Redux, SQL, Python, GraphQl, ApolloServer, entre otras tecnologías del sector.**
 ![Ract](/Images/React.jpg?raw=true)
+![JavaScript](/Images/JavaScript.png?raw=true)
+![GraphQL](/Images/GraphQL.png?raw=true)
+![Python](/Images/Python.png?raw=true)
+![ApolloSever](/Images/ApolloSever.jpg?raw=true)
+![Redux](/Images/Redux.png?raw=true)
+![Varias](/Images/Varias.png?raw=true)
+![Varias1](/Images/Varias1.jpg?raw=true)
