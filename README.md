@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 # CAR L O S G I O VA N N Y G UAL T E R O L O N D O Ñ O
 ### F U L L S T A C K DE V E L O P M ENT
 > **Formado como Full Stack Developer cuento con experiencia en NodeJS, React, Redux, SQL, Python, GraphQl, ApolloServer, entre otras tecnologías del sector.**
-![Alt text](/relative/path/to/images/GraphQL.jpg?raw=true)
+![Ract](/Images/React.jpg?raw=true)
