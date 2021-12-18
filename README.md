@@ -23,23 +23,19 @@ mark{
   margin: 0 auto;
   color:white;
   font-size: 1.2em;
-  
 }
-p{ 
-  justify-content: center;
-  align-items: center;
-  text-align: center;
+p{
+    width: 90%;
   margin: 0 auto;
-  color:white;
-  font-size: 1.2em;
+  font-size: 1em;
+  text-align: center;
   display: inline-block;
 }
-table{ 
-  justify-content: center;
-  align-items: center;
-  text-align: center;
+table{
+    width: 90%;
   margin: 0 auto;
-  color:white;
+  font-size: 1em;
+  text-align: center;
   display: inline-block;
 }
 </style>
@@ -74,7 +70,7 @@ ___
 
 
 <div  >
-<p style="width:100%"  width='380%' height="100%" alaign="center" bacgraund="red" border="5"> 
+<p > 
   <img src="Images/React.jpg" alt="React" width="60" height="60"/> 
     <img src="Images/JavaScript.png" alt="JavaScript"width="60" height="60"/> 
   <img src="Images/Redux.png" alt="Redux" width="60" height="60"/> 
@@ -89,7 +85,7 @@ ___
 
 # Contacto
 
-<table>
+<table border="2">
   <tr> 
     <td>
  <a href="https://www.linkedin.com/in/carlos-gualtero/" target="_blank"> <img src="Images/linkedin.gif" alt="Linhedin"             width="150" height="70"/> </a>  
