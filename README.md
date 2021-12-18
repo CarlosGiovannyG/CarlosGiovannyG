@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+<!-- 
 **CarlosGiovannyG/CarlosGiovannyG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,24 +11,35 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
 
-output: 
-  html_document:
-     css: Styles/Styles.css
-     self_contained: no
+<style>
+mark{
+  
+  background-color: rgb(103, 220, 243, 0.267);
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  color:white;
+  font-size: 1.5em;
+}
+</style>
 
+<mark>
 
-# CAR L O S G I O VA N N Y G UAL T E R O L O N D O Ñ O
+# 😄 CARLOS GIOVANNY GUALTERO LONDOÑO
 
-## F U L L S T A C K DE V E L O P M ENT
+## FULLSTACK DEVELOPER 
+___
   <img src="Images/github.gif" alt="html5" width="200" height="200" border="5px" align="right"/> 
+
+
+
 
 ### El mundo de la informática sin dudas es mi lugar.
 
->Me fascina la idea da saber que tengo la capacidad de dar soluciones a las diferentes problemáticas del día a día por medio de la
+***El mundo de la informática sin dudas es mi lugar. Me fascina la idea da saber que tengo la capacidad de dar soluciones a las diferentes problemáticas del día a día por medio de la tecnología***
 
 
 >Formado como Full Stack Developer cuento con experiencia en Formado como Full Stack Developer cuento con experiencia en:
@@ -60,7 +71,7 @@ output:
 
 # Contacto
 
-<table style="width:100%" >
+<table style="width:80%"  border="10">
   <tr> 
     <td>
  <a href="https://www.linkedin.com/in/carlos-gualtero/" target="_blank"> <img src="Images/linkedin.gif" alt="Linhedin"             width="150" height="70"/> </a>  
@@ -78,6 +89,8 @@ output:
 	</td>	   
   </tr>  
 </table>
+
+ </mark>
 
 
 
