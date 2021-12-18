@@ -63,10 +63,10 @@ output:
 <table style="width:50%" >
   <tr> 
     <td>
- <a href="https://www.linkedin.com/in/carlos-gualtero" target="_blank"> <img src="Images/linkedin.png" alt="Linhedin"             width="150" height="70"/> </a>  
+ <a href="https://www.linkedin.com/in/carlos-gualtero/" target="_blank"> <img src="Images/linkedin.png" alt="Linhedin"             width="150" height="70"/> </a>  
 	</td>
   <td>
-	<a href="cggualtero@hotmail.com" target="_blank"> <img src="Images/email.jpg" alt="Correo"             width="150" height="80"/> </a>  
+	<a href="mailto:cggualtero@hotmail.com" target="_blank"> <img src="Images/email.jpg" alt="Correo"             width="150" height="80"/> </a>  
 	</td>	   
   </tr>  
 </table>
