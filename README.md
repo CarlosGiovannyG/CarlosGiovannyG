@@ -38,8 +38,8 @@ ___
 
 
 
-<div  >
-<p > 
+
+<p border="2"  > 
   <img src="Images/React.jpg" alt="React" width="60" height="60"/> 
     <img src="Images/JavaScript.png" alt="JavaScript"width="60" height="60"/> 
   <img src="Images/Redux.png" alt="Redux" width="60" height="60"/> 
@@ -49,7 +49,7 @@ ___
   <img src="Images/Varias.png" alt="Varias" width="60" height="60"/> 
     <img src="Images/Varias1.jpg" alt="Varias1" width="60" height="60"/> 
  </p>
-</div>
+
 
 
 # Contacto
