@@ -66,10 +66,10 @@ ___
 	<a href="mailto:cgig82@gmail.com" target="_blank"> <img src="Images/gmail.gif" alt="Correo"             width="150" height="70"/> </a>  
 	</td>	   
   <td>
-	<p  width="150" height="70" background-color="#ff0000" >
-  <a  href="tel:3043912387" target="_blank"> Telefono: +573043912387 </a>
-  </p>  
-	</td>	   
+  <a href="https://api.whatsapp.com/send?phone=573043912387&text=Hola, Quiero Contactarme contigo!">
+  <img src="Images/whatsapp.gif" alt="Correo"             width="150" height="70"/>
+  </a>
+  	</td>	   
   </tr>  
 </table>
 
