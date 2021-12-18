@@ -13,34 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ... -->
 
-<style>
-mark{
-  
-  background-color: rgb(103, 220, 243, 0.267);
-  position: absolute;
-  justify-content: center;
-  align-items: center;
-  margin: 0 auto;
-  color:white;
-  font-size: 1.2em;
-}
-p{
-    width: 90%;
-  margin: 0 auto;
-  font-size: 1em;
-  text-align: center;
-  display: inline-block;
-}
-table{
-    width: 90%;
-  margin: 0 auto;
-  font-size: 1em;
-  text-align: center;
-  display: inline-block;
-}
-</style>
-
-<mark>
 
 # 😄 CARLOS GIOVANNY GUALTERO LONDOÑO
 
@@ -49,12 +21,9 @@ ___
   <img src="Images/github.gif" alt="html5" width="200" height="200" border="5px" align="right"/> 
 
 
-
-
 ### El mundo de la informática sin dudas es mi lugar.
 
 ***El mundo de la informática sin dudas es mi lugar. Me fascina la idea da saber que tengo la capacidad de dar soluciones a las diferentes problemáticas del día a día por medio de la tecnología***
-
 
 >Formado como Full Stack Developer cuento con experiencia en Formado como Full Stack Developer cuento con experiencia en:
 
@@ -104,7 +73,7 @@ ___
   </tr>  
 </table>
 
- </mark>
+
 
 
 
