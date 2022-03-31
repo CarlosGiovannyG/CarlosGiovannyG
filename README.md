@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - Python
 - GraphQl
 - ApolloServer
-- entre otras tecnologías del sector
+- entre otras tecnologías
 
 
 ___
