@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ... -->
 
-# 😄 CARLOS GIOVANNY GUALTERO LONDOÑO
+# CARLOS GIOVANNY GUALTERO LONDOÑO
 
 ## FULLSTACK DEVELOPER
 
