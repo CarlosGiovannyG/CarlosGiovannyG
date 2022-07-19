@@ -13,20 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ... -->
 
-# 😄 CARLOS GIOVANNY GUALTERO LONDOÑO
+# CARLOS GIOVANNY GUALTERO LONDOÑO
 
 ## FULLSTACK DEVELOPER
 
 ---
 
-  <img src="Images/github.gif" alt="html5" width="200" height="200" border="5px" align="right"/>
-
-### El mundo de la informática sin dudas es mi lugar.
-
 **_El mundo de la informática sin dudas es mi lugar. Me fascina la idea da saber que tengo la capacidad de dar soluciones a las diferentes problemáticas del día a día por medio de la tecnología_**
 
-> Formado como Full Stack Developer cuento con experiencia en Formado como Full Stack Developer cuento con experiencia en:
+> Formado como Full Stack Developer cuento con experiencia en:
 
+- JavaScript
 - NodeJS
 - React
 - Redux
@@ -34,19 +31,13 @@ Here are some ideas to get you started:
 - Python
 - GraphQl
 - ApolloServer
+<<<<<<< HEAD
 - VTEX
 - NextJS
+=======
+- entre otras tecnologías
+>>>>>>> df76e17a1f69613abab3a8f6b0366272edacbec6
 
-<p > 
-  <img src="Images/React.jpg" alt="React" width="60" height="60"/> 
-    <img src="Images/JavaScript.png" alt="JavaScript"width="60" height="60"/> 
-  <img src="Images/Redux.png" alt="Redux" width="60" height="60"/> 
-   <img src="Images/GraphQL.png" alt="GraphQL" width="60" height="60"/>
-    <img src="Images/ApolloSever.jpg" alt="ApolloServer" width="100" height="60"/>
-    <img src="Images/Python.png" alt="Python"  width="60" height="60"/>
-  <img src="Images/Varias.png" alt="Varias" width="60" height="60"/> 
-    <img src="Images/Varias1.jpg" alt="Varias1" width="60" height="60"/> 
- </p>
 
 ___
 
