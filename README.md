@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 - Python
 - GraphQl
 - ApolloServer
-- entre otras tecnologías del sector
+- VTEX
+- NextJS
 
 <p > 
   <img src="Images/React.jpg" alt="React" width="60" height="60"/> 
@@ -49,7 +50,7 @@ Here are some ideas to get you started:
 
 ___
 
-# [Portafolio](https://carlosgiovannyg.github.io/portfolio "Visita mi portafolio")
+# [Portafolio](https://portfolio-giovanny-gualtero.vercel.app/ "Visita mi portafolio")
 
 
 # Contacto
