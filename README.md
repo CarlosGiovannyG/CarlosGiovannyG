@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **CarlosGiovannyG/CarlosGiovannyG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,7 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact: ... -->
 
 # CARLOS GIOVANNY GUALTERO LONDOÑO
 
@@ -31,27 +29,6 @@ Here are some ideas to get you started:
 - Python
 - GraphQl
 - ApolloServer
-<<<<<<< HEAD
 - VTEX
 - NextJS
-=======
 - entre otras tecnologías
->>>>>>> df76e17a1f69613abab3a8f6b0366272edacbec6
-
-
-___
-
-# [Portafolio](https://portfolio-giovanny-gualtero.vercel.app/ "Visita mi portafolio")
-
-
-# Contacto
-
-<table border="2">
-  <tr> 
-    <td><a href="https://www.linkedin.com/in/carlos-gualtero/" target="_blank"> <img src="Images/linkedin.gif" alt="Linhedin" width="150" height="70"/> </a></td>
-  <td><a href="mailto:cggualtero@hotmail.com" target="_blank"> <img src="Images/email.gif" alt="Correo"width="150" height=70"/> </a></td>	   
-  <td><a href="mailto:cgig82@gmail.com" target="_blank"> <img src="Images/gmail.gif" alt="Correo" width="150" height="70"/> </a></td>	   
-  <td><a href="https://api.whatsapp.com/send?phone=573043912387&text=Hola, Quiero Contactarme contigo!"><img src="Images/whatsapp.gif" alt="Correo"width="150" height="70"/></a>
-  	</td>	   
-  </tr>  
-</table>
