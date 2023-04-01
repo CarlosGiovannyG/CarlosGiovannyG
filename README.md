@@ -1,7 +1,10 @@
 ### Hi there 👋
 # CARLOS GIOVANNY GUALTERO LONDOÑO
-Email cggualtero@hotmail.com
-Phone: 3043912387
+
+### Email cggualtero@hotmail.com
+
+
+### Phone: 3043912387
 
 ## FULLSTACK DEVELOPER
 
