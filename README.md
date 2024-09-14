@@ -1,5 +1,4 @@
-### Hi there 👋
-# CARLOS GIOVANNY GUALTERO LONDOÑO
+### Hola, soy CARLOS GIOVANNY👋
 
 ### Email cggualtero@hotmail.com
 
@@ -24,4 +23,3 @@
 - ApolloServer
 - VTEX
 - NextJS
-- entre otras tecnologías
