@@ -9,17 +9,13 @@
 
 
 ---
-**_El mundo de la informática sin dudas es mi lugar. Me fascina la idea da saber que tengo la capacidad de dar soluciones a las diferentes problemáticas del día a día por medio de la tecnología_**
+**Apasionado por la tecnología y el desarrollo de soluciones innovadoras, cuento con experiencia en el diseño y la implementación de aplicaciones escalables. Domino un conjunto diverso de tecnologías modernas para Backend y Frontend, lo que me permite aportar soluciones integrales en entornos ágiles. Mi enfoque se centra en la optimización de procesos, la mejora de la experiencia del usuario y la colaboración efectiva en equipos multidisciplinarios.**
 
 > Formado como Full Stack Developer cuento con experiencia en:
 
-- JavaScript
-- NodeJS
-- React
-- Redux
-- SQL
-- Python
-- GraphQl
-- ApolloServer
-- VTEX
-- NextJS
+•	Frontend: React, Next.js, Redux, JavaScript, HTML5, CSS3.
+•	Backend: Node.js, Django, Express.js, Apollo Server, Python.
+•	Bases de Datos: MongoDB, PostgreSQL, Sequelize, SQLite.
+•	Herramientas y Metodologías: Git, Docker, GraphQL, Metodologías ágiles (Scrum).
+•	Otros: Excel avanzado, integración con VTEX y SAP.
+
